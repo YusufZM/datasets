@@ -1,0 +1,127 @@
+Course_ID,Course_Category,Course_Level,Course_Accreditor,Exam_dates,Pass_Number,Total_Students
+1070968,Agile,Foundation,BCS,30/05/2020,79,132
+1070968,Agile,Practitioner,BCS,21/06/2020,94,126
+1070968,Agile,Foundation,BCS,01/06/2020,63,72
+1070968,Agile,Practitioner,BCS,31/05/2020,76,130
+1070968,Agile,Practitioner,BCS,08/06/2020,62,121
+1070968,Agile,Practitioner,BCS,19/06/2020,71,131
+1070968,Agile,Practitioner,BCS,16/06/2020,61,94
+1070968,Agile,Foundation,BCS,15/06/2020,100,143
+1070968,Agile,Practitioner,BCS,12/06/2020,77,144
+1113822,Blockchain,Essentials,BCS,30/06/2020,64,95
+1113822,Blockchain,Foundation,BCS,29/06/2020,60,68
+1113822,Blockchain,Practitioner,BCS,14/07/2020,96,113
+1113823,Blockchain,Practitioner,BCS,12/07/2020,64,135
+1113824,Blockchain,Foundation,BCS,18/07/2020,73,111
+1113825,Blockchain,Essentials,BCS,18/07/2020,70,108
+1113826,Blockchain,Essentials,BCS,13/07/2020,70,114
+1113827,Blockchain,Essentials,BCS,21/07/2020,72,127
+1113828,Blockchain,Foundation,BCS,22/07/2020,83,123
+1167710, Artificial Intelligence,Essentials,BCS,30/07/2020,72,101
+1167711, Artificial Intelligence,Foundation,BCS,30/07/2020,76,129
+1167712, Artificial Intelligence,Practitioner,BCS,02/08/2020,64,92
+1167713, Artificial Intelligence,Essentials,BCS,30/07/2020,61,133
+1167714, Artificial Intelligence,Essentials,BCS,21/08/2020,83,101
+1167715, Artificial Intelligence,Essentials,BCS,20/08/2020,92,118
+1167716, Artificial Intelligence,Foundation,BCS,01/08/2020,97,142
+1167717, Artificial Intelligence,Foundation,BCS,19/08/2020,67,142
+1167718, Artificial Intelligence,Foundation,BCS,13/08/2020,82,91
+592338,Business Analysis,Foundation,BCS,02/09/2020,92,108
+592338,Business Analysis,Certificate,BCS,11/09/2020,69,135
+592338,Business Analysis,Certificate,BCS,14/09/2020,66,108
+592338,Business Analysis,Practitioner,BCS,23/09/2020,91,108
+592338,Business Analysis,Practitioner,BCS,27/08/2020,73,96
+592338,Business Analysis,Practitioner,BCS,12/09/2020,73,75
+592338,Business Analysis,Practitioner,BCS,06/09/2020,87,116
+592338,Business Analysis,Certificate,BCS,17/09/2020,92,148
+592338,Business Analysis,Professional,BCS,13/09/2020,67,137
+975046, Solutions Development and Architecture,Foundation,BCS,25/10/2020,69,111
+975046, Solutions Development and Architecture,Certificate,BCS,24/10/2020,97,143
+975046, Solutions Development and Architecture,International Diploma,BCS,26/09/2020,61,77
+975046, Solutions Development and Architecture,International Diploma,BCS,08/10/2020,68,142
+975046, Solutions Development and Architecture,Foundation,BCS,17/10/2020,62,137
+975046, Solutions Development and Architecture,Intemediate,BCS,23/10/2020,69,98
+975046, Solutions Development and Architecture,Intemediate,BCS,12/10/2020,74,120
+975046, Solutions Development and Architecture,Certificate,BCS,02/10/2020,77,148
+975046, Solutions Development and Architecture,Foundation,BCS,23/10/2020,80,101
+742602, Software Testing,Foundation,ISTQB ,11/11/2020,78,136
+742602, Software Testing,Foundation,ISTQB ,04/11/2020,98,104
+742602, Software Testing,Advanced,ISTQB ,05/11/2020,79,144
+742602, Software Testing,Advanced,ISTQB ,11/11/2020,89,104
+742602, Software Testing,Intemediate,BCS,31/10/2020,73,88
+742602, Software Testing,Advanced,ISTQB ,27/10/2020,82,133
+742602, Software Testing,Advanced,ISTQB ,03/11/2020,97,141
+742602, Software Testing,Foundation,ISTQB ,02/11/2020,80,135
+742602, Software Testing,Foundation,ISTQB ,09/11/2020,81,136
+794151, Information Security,Foundation,BCS ,05/12/2020,91,138
+794151, Information Security,Foundation,BCS ,30/11/2020,84,143
+794151, Information Security,Practitioner,BCS ,13/12/2020,95,124
+794151, Information Security,Practitioner,BCS ,06/12/2020,95,148
+794151, Information Security,Practitioner,BCS ,27/11/2020,67,106
+794151, Information Security,Practitioner,BCS ,02/12/2020,68,99
+794151, Information Security,Practitioner,BCS ,06/12/2020,67,79
+794151, Information Security,Foundation,BCS ,19/12/2020,74,81
+794151, Information Security,Practitioner,BCS ,26/11/2020,86,109
+1006314, IS Consultancy,Practitioner,BCS ,15/01/2020,75,116
+1006314, IS Consultancy,International Diploma,BCS ,14/01/2020,89,98
+1006314, IS Consultancy,International Diploma,BCS ,30/12/2020,67,98
+1006314, IS Consultancy,International Diploma,BCS ,01/01/2020,71,140
+1006314, IS Consultancy,International Diploma,BCS ,21/01/2020,79,79
+1006314, IS Consultancy,International Diploma,BCS ,14/01/2020,65,99
+1006314, IS Consultancy,Practitioner,BCS ,30/12/2020,100,109
+1006314, IS Consultancy,Practitioner,BCS ,17/01/2020,68,77
+1006314, IS Consultancy,Practitioner,BCS ,27/12/2020,84,118
+1210588, BCS Project Management,Foundation,BCS ,01/02/2020,72,90
+1210588, BCS Project Management,Foundation,BCS ,18/02/2020,99,124
+1210588, BCS Project Management,Advanced Practitioner,BCS ,30/01/2020,100,109
+1210588, BCS Project Management,Advanced Practitioner,BCS ,31/01/2020,64,117
+1210588, BCS Project Management,Advanced Practitioner,BCS ,07/02/2020,81,133
+1210588, BCS Project Management,Advanced Practitioner,BCS ,31/01/2020,78,137
+1210588, BCS Project Management,Higher Certificate,BCS ,17/02/2020,89,130
+1210588, BCS Project Management,Higher Certificate,BCS ,28/01/2020,71,123
+1210588, BCS Project Management,Higher Certificate,BCS ,12/02/2020,85,144
+1011058, Data Centre Management,Foundation,BCS ,24/03/2020,82,148
+1011058, Data Centre Management,Foundation,BCS ,25/02/2020,92,142
+1011058, Data Centre Management,Foundation,BCS ,12/03/2020,86,130
+1011058, Data Centre Management,Foundation,BCS ,13/03/2020,85,100
+1011058, Data Centre Management,Intemediate,BCS ,13/03/2020,76,108
+1011058, Data Centre Management,Intemediate,BCS ,17/03/2020,81,91
+1011058, Data Centre Management,Intemediate,BCS ,09/03/2020,88,92
+1011058, Data Centre Management,Intemediate,BCS ,05/03/2020,87,132
+1011058, Data Centre Management,Intemediate,BCS ,03/03/2020,81,127
+192870,  Asset Management,Foundation,BCS ,30/03/2020,66,118
+192870,  Asset Management,Foundation,BCS ,17/04/2020,89,109
+192870,  Asset Management,Foundation,BCS ,10/04/2020,66,105
+192870,  Asset Management,Advanced Practitioner,BCS ,26/03/2020,64,110
+192870,  Asset Management,Advanced Practitioner,BCS ,10/04/2020,62,88
+192870,  Asset Management,Advanced Practitioner,BCS ,11/04/2020,80,135
+192870,  Asset Management,Advanced Practitioner,BCS ,14/04/2020,97,107
+192870,  Asset Management,Advanced Practitioner,BCS ,30/03/2020,98,150
+192870,  Asset Management,Advanced Practitioner,BCS ,01/04/2020,64,79
+476268, IT Service Management,Certificate,BCS ,12/05/2020,96,105
+476268, IT Service Management,Certificate,BCS ,16/05/2020,69,137
+476268, IT Service Management,Foundation,BCS ,11/05/2020,68,83
+476268, IT Service Management,Foundation,BCS ,14/05/2020,77,87
+476268, IT Service Management,Professional,BCS ,13/05/2020,100,127
+476268, IT Service Management,Professional,BCS ,02/05/2020,85,113
+476268, IT Service Management,Essentials,BCS ,20/05/2020,63,81
+476268, IT Service Management,Essentials,BCS ,29/04/2020,98,103
+476268, IT Service Management,Essentials,BCS ,06/05/2020,66,149
+739964, OpenStack,Foundation,BCS ,16/06/2020,96,102
+739964, OpenStack,Foundation,BCS ,17/06/2020,78,89
+739964, OpenStack,Foundation,BCS ,10/06/2020,92,120
+739964, OpenStack,Foundation,BCS ,12/06/2020,86,91
+739964, OpenStack,Certificate,BCS ,28/05/2020,75,105
+739964, OpenStack,Certificate,BCS ,16/06/2020,75,129
+739964, OpenStack,Certificate,BCS ,22/06/2020,61,95
+739964, OpenStack,Certificate,BCS ,03/06/2020,100,115
+739964, OpenStack,Certificate,BCS ,08/06/2020,98,106
+403100,User Experience (UX),Foundation,BCS ,04/07/2020,60,99
+403100,User Experience (UX),Foundation,BCS ,18/07/2020,100,122
+403100,User Experience (UX),Foundation,BCS ,09/07/2020,80,81
+403100,User Experience (UX),Foundation,BCS ,02/07/2020,95,137
+403100,User Experience (UX),Foundation,BCS ,03/07/2020,99,104
+403100,User Experience (UX),Foundation,BCS ,14/07/2020,77,79
+403100,User Experience (UX),Foundation,BCS ,04/07/2020,95,103
+403100,User Experience (UX),Foundation,BCS ,02/07/2020,96,150
+403100,User Experience (UX),Foundation,BCS ,06/07/2020,77,89
